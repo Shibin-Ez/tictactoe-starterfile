@@ -1,0 +1,15 @@
+tic-tac-toe starter files
+    https://github.com/Shibin-Ez/tictactoe-starterfile
+
+
+following link is for jquery:
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+
+visit the tic-tac-toe website
+    https://shibin-ez.github.io/tic-tac-toe/
+
+
+
+download the completed source file (single player version)
+    https://github.com/Shibin-Ez/tic-tac-toe
